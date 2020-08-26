@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         New Userscript
+// @name         simple-extension
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
+// @description  i did required it from web.archive.org.
 // @author       You
 // @match        http://3rb.be
 // @grant        GM_xmlhttpRequest
